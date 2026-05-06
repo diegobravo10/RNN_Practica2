@@ -1,0 +1,11 @@
+product_id,nombre,categoria,unidad,stock_actual,fecha_expiracion
+101,Leche Entera 1L,Lácteos,Caja,139,2025-12-31
+102,Arroz Blanco 1kg,Granos,Bolsa,825,2025-12-31
+103,Aceite Vegetal 900ml,Abarrotes,Botella,0,2025-12-31
+104,Pasta Penne 500g,Abarrotes,Paquete,68,2025-12-31
+105,Café Molido 250g,Bebidas,Sobre,1,2025-12-31
+106,Detergente Líquido 3L,Limpieza,Bidón,0,2025-12-31
+107,Atún en Conserva 140g,Enlatados,Lata,396,2025-12-31
+108,Huevos (Docena),Fresco,Cartón,0,2025-12-31
+109,Harina de Trigo 1kg,Granos,Bolsa,231,2025-12-31
+110,Papel Higiénico 4u,Higiene,Pack,0,2025-12-31

@@ -1,0 +1,601 @@
+product_id,nombre,fecha_venta,cantidad_vendida,stock_en_momento
+101,Leche Entera 1L,2024-03-05,9,500
+102,Arroz Blanco 1kg,2024-03-05,9,1200
+103,Aceite Vegetal 900ml,2024-03-05,16,300
+104,Pasta 500g,2024-03-05,5,450
+105,Café Molido 250g,2024-03-05,12,200
+106,Detergente Líquido 3L,2024-03-05,16,150
+107,Atún en Conserva 140g,2024-03-05,13,800
+108,Huevos (Docena),2024-03-05,15,100
+109,Harina de Trigo 1kg,2024-03-05,8,600
+110,Papel Higiénico 4u,2024-03-05,9,400
+101,Leche Entera 1L,2024-03-06,11,496
+102,Arroz Blanco 1kg,2024-03-06,6,1196
+103,Aceite Vegetal 900ml,2024-03-06,13,289
+104,Pasta 500g,2024-03-06,13,450
+105,Café Molido 250g,2024-03-06,9,193
+106,Detergente Líquido 3L,2024-03-06,13,139
+107,Atún en Conserva 140g,2024-03-06,14,792
+108,Huevos (Docena),2024-03-06,12,90
+109,Harina de Trigo 1kg,2024-03-06,9,597
+110,Papel Higiénico 4u,2024-03-06,10,396
+101,Leche Entera 1L,2024-03-07,8,490
+102,Arroz Blanco 1kg,2024-03-07,7,1195
+103,Aceite Vegetal 900ml,2024-03-07,6,281
+104,Pasta 500g,2024-03-07,8,442
+105,Café Molido 250g,2024-03-07,10,189
+106,Detergente Líquido 3L,2024-03-07,10,131
+107,Atún en Conserva 140g,2024-03-07,11,783
+108,Huevos (Docena),2024-03-07,14,83
+109,Harina de Trigo 1kg,2024-03-07,6,593
+110,Papel Higiénico 4u,2024-03-07,10,391
+101,Leche Entera 1L,2024-03-08,6,487
+102,Arroz Blanco 1kg,2024-03-08,12,1193
+103,Aceite Vegetal 900ml,2024-03-08,8,280
+104,Pasta 500g,2024-03-08,5,439
+105,Café Molido 250g,2024-03-08,13,184
+106,Detergente Líquido 3L,2024-03-08,3,126
+107,Atún en Conserva 140g,2024-03-08,13,777
+108,Huevos (Docena),2024-03-08,8,74
+109,Harina de Trigo 1kg,2024-03-08,11,592
+110,Papel Higiénico 4u,2024-03-08,8,386
+101,Leche Entera 1L,2024-03-09,16,486
+102,Arroz Blanco 1kg,2024-03-09,12,1186
+103,Aceite Vegetal 900ml,2024-03-09,11,277
+104,Pasta 500g,2024-03-09,20,439
+105,Café Molido 250g,2024-03-09,12,176
+106,Detergente Líquido 3L,2024-03-09,25,128
+107,Atún en Conserva 140g,2024-03-09,8,769
+108,Huevos (Docena),2024-03-09,20,71
+109,Harina de Trigo 1kg,2024-03-09,16,586
+110,Papel Higiénico 4u,2024-03-09,13,383
+101,Leche Entera 1L,2024-03-10,17,475
+102,Arroz Blanco 1kg,2024-03-10,13,1179
+103,Aceite Vegetal 900ml,2024-03-10,14,271
+104,Pasta 500g,2024-03-10,16,424
+105,Café Molido 250g,2024-03-10,15,169
+106,Detergente Líquido 3L,2024-03-10,9,108
+107,Atún en Conserva 140g,2024-03-10,12,766
+108,Huevos (Docena),2024-03-10,13,56
+109,Harina de Trigo 1kg,2024-03-10,14,575
+110,Papel Higiénico 4u,2024-03-10,11,375
+101,Leche Entera 1L,2024-03-11,6,463
+102,Arroz Blanco 1kg,2024-03-11,8,1171
+103,Aceite Vegetal 900ml,2024-03-11,12,262
+104,Pasta 500g,2024-03-11,7,413
+105,Café Molido 250g,2024-03-11,9,159
+106,Detergente Líquido 3L,2024-03-11,14,104
+107,Atún en Conserva 140g,2024-03-11,6,759
+108,Huevos (Docena),2024-03-11,16,48
+109,Harina de Trigo 1kg,2024-03-11,10,566
+110,Papel Higiénico 4u,2024-03-11,11,369
+101,Leche Entera 1L,2024-03-12,9,462
+102,Arroz Blanco 1kg,2024-03-12,10,1168
+103,Aceite Vegetal 900ml,2024-03-12,10,255
+104,Pasta 500g,2024-03-12,9,411
+105,Café Molido 250g,2024-03-12,12,155
+106,Detergente Líquido 3L,2024-03-12,8,95
+107,Atún en Conserva 140g,2024-03-12,7,758
+108,Huevos (Docena),2024-03-12,16,37
+109,Harina de Trigo 1kg,2024-03-12,6,561
+110,Papel Higiénico 4u,2024-03-12,9,363
+101,Leche Entera 1L,2024-03-13,12,458
+102,Arroz Blanco 1kg,2024-03-13,7,1163
+103,Aceite Vegetal 900ml,2024-03-13,11,250
+104,Pasta 500g,2024-03-13,9,407
+105,Café Molido 250g,2024-03-13,11,148
+106,Detergente Líquido 3L,2024-03-13,10,92
+107,Atún en Conserva 140g,2024-03-13,10,756
+108,Huevos (Docena),2024-03-13,6,26
+109,Harina de Trigo 1kg,2024-03-13,4,560
+110,Papel Higiénico 4u,2024-03-13,12,359
+101,Leche Entera 1L,2024-03-14,14,451
+102,Arroz Blanco 1kg,2024-03-14,10,1161
+103,Aceite Vegetal 900ml,2024-03-14,11,244
+104,Pasta 500g,2024-03-14,16,403
+105,Café Molido 250g,2024-03-14,15,142
+106,Detergente Líquido 3L,2024-03-14,13,87
+107,Atún en Conserva 140g,2024-03-14,5,751
+108,Huevos (Docena),2024-03-14,8,25
+109,Harina de Trigo 1kg,2024-03-14,18,561
+110,Papel Higiénico 4u,2024-03-14,9,352
+101,Leche Entera 1L,2024-03-15,11,442
+102,Arroz Blanco 1kg,2024-03-15,9,1156
+103,Aceite Vegetal 900ml,2024-03-15,5,238
+104,Pasta 500g,2024-03-15,6,392
+105,Café Molido 250g,2024-03-15,11,132
+106,Detergente Líquido 3L,2024-03-15,13,79
+107,Atún en Conserva 140g,2024-03-15,10,751
+108,Huevos (Docena),2024-03-15,10,22
+109,Harina de Trigo 1kg,2024-03-15,11,548
+110,Papel Higiénico 4u,2024-03-15,8,348
+101,Leche Entera 1L,2024-03-16,17,436
+102,Arroz Blanco 1kg,2024-03-16,13,1152
+103,Aceite Vegetal 900ml,2024-03-16,16,238
+104,Pasta 500g,2024-03-16,14,391
+105,Café Molido 250g,2024-03-16,13,126
+106,Detergente Líquido 3L,2024-03-16,12,71
+107,Atún en Conserva 140g,2024-03-16,18,746
+108,Huevos (Docena),2024-03-16,8,17
+109,Harina de Trigo 1kg,2024-03-16,13,542
+110,Papel Higiénico 4u,2024-03-16,9,345
+101,Leche Entera 1L,2024-03-17,21,424
+102,Arroz Blanco 1kg,2024-03-17,16,1144
+103,Aceite Vegetal 900ml,2024-03-17,16,227
+104,Pasta 500g,2024-03-17,20,382
+105,Café Molido 250g,2024-03-17,15,118
+106,Detergente Líquido 3L,2024-03-17,19,64
+107,Atún en Conserva 140g,2024-03-17,7,733
+108,Huevos (Docena),2024-03-17,12,14
+109,Harina de Trigo 1kg,2024-03-17,16,534
+110,Papel Higiénico 4u,2024-03-17,17,341
+101,Leche Entera 1L,2024-03-18,10,408
+102,Arroz Blanco 1kg,2024-03-18,14,1133
+103,Aceite Vegetal 900ml,2024-03-18,8,216
+104,Pasta 500g,2024-03-18,18,367
+105,Café Molido 250g,2024-03-18,9,108
+106,Detergente Líquido 3L,2024-03-18,9,50
+107,Atún en Conserva 140g,2024-03-18,14,731
+108,Huevos (Docena),2024-03-18,11,7
+109,Harina de Trigo 1kg,2024-03-18,14,523
+110,Papel Higiénico 4u,2024-03-18,10,329
+101,Leche Entera 1L,2024-03-19,11,403
+102,Arroz Blanco 1kg,2024-03-19,11,1124
+103,Aceite Vegetal 900ml,2024-03-19,15,213
+104,Pasta 500g,2024-03-19,8,354
+105,Café Molido 250g,2024-03-19,17,104
+106,Detergente Líquido 3L,2024-03-19,8,46
+107,Atún en Conserva 140g,2024-03-19,13,722
+108,Huevos (Docena),2024-03-19,8,1
+109,Harina de Trigo 1kg,2024-03-19,17,514
+110,Papel Higiénico 4u,2024-03-19,6,324
+101,Leche Entera 1L,2024-03-20,10,397
+102,Arroz Blanco 1kg,2024-03-20,8,1118
+103,Aceite Vegetal 900ml,2024-03-20,12,203
+104,Pasta 500g,2024-03-20,9,351
+105,Café Molido 250g,2024-03-20,6,92
+106,Detergente Líquido 3L,2024-03-20,12,43
+107,Atún en Conserva 140g,2024-03-20,6,714
+108,Huevos (Docena),2024-03-20,12,0
+109,Harina de Trigo 1kg,2024-03-20,11,502
+110,Papel Higiénico 4u,2024-03-20,16,323
+101,Leche Entera 1L,2024-03-21,15,392
+102,Arroz Blanco 1kg,2024-03-21,14,1115
+103,Aceite Vegetal 900ml,2024-03-21,4,196
+104,Pasta 500g,2024-03-21,10,347
+105,Café Molido 250g,2024-03-21,12,91
+106,Detergente Líquido 3L,2024-03-21,10,36
+107,Atún en Conserva 140g,2024-03-21,5,713
+108,Huevos (Docena),2024-03-21,7,0
+109,Harina de Trigo 1kg,2024-03-21,6,496
+110,Papel Higiénico 4u,2024-03-21,10,312
+101,Leche Entera 1L,2024-03-22,8,382
+102,Arroz Blanco 1kg,2024-03-22,9,1106
+103,Aceite Vegetal 900ml,2024-03-22,9,197
+104,Pasta 500g,2024-03-22,13,342
+105,Café Molido 250g,2024-03-22,6,84
+106,Detergente Líquido 3L,2024-03-22,7,31
+107,Atún en Conserva 140g,2024-03-22,11,713
+108,Huevos (Docena),2024-03-22,11,0
+109,Harina de Trigo 1kg,2024-03-22,8,495
+110,Papel Higiénico 4u,2024-03-22,9,307
+101,Leche Entera 1L,2024-03-23,16,379
+102,Arroz Blanco 1kg,2024-03-23,14,1102
+103,Aceite Vegetal 900ml,2024-03-23,13,193
+104,Pasta 500g,2024-03-23,14,334
+105,Café Molido 250g,2024-03-23,18,83
+106,Detergente Líquido 3L,2024-03-23,18,29
+107,Atún en Conserva 140g,2024-03-23,17,707
+108,Huevos (Docena),2024-03-23,19,0
+109,Harina de Trigo 1kg,2024-03-23,17,492
+110,Papel Higiénico 4u,2024-03-23,12,303
+101,Leche Entera 1L,2024-03-24,17,368
+102,Arroz Blanco 1kg,2024-03-24,15,1093
+103,Aceite Vegetal 900ml,2024-03-24,9,185
+104,Pasta 500g,2024-03-24,17,325
+105,Café Molido 250g,2024-03-24,11,70
+106,Detergente Líquido 3L,2024-03-24,12,16
+107,Atún en Conserva 140g,2024-03-24,17,695
+108,Huevos (Docena),2024-03-24,17,0
+109,Harina de Trigo 1kg,2024-03-24,18,480
+110,Papel Higiénico 4u,2024-03-24,20,296
+101,Leche Entera 1L,2024-03-25,7,356
+102,Arroz Blanco 1kg,2024-03-25,15,1083
+103,Aceite Vegetal 900ml,2024-03-25,16,181
+104,Pasta 500g,2024-03-25,11,313
+105,Café Molido 250g,2024-03-25,11,64
+106,Detergente Líquido 3L,2024-03-25,17,9
+107,Atún en Conserva 140g,2024-03-25,4,683
+108,Huevos (Docena),2024-03-25,19,0
+109,Harina de Trigo 1kg,2024-03-25,9,467
+110,Papel Higiénico 4u,2024-03-25,11,281
+101,Leche Entera 1L,2024-03-26,12,354
+102,Arroz Blanco 1kg,2024-03-26,11,1073
+103,Aceite Vegetal 900ml,2024-03-26,10,170
+104,Pasta 500g,2024-03-26,7,307
+105,Café Molido 250g,2024-03-26,9,58
+106,Detergente Líquido 3L,2024-03-26,6,0
+107,Atún en Conserva 140g,2024-03-26,12,684
+108,Huevos (Docena),2024-03-26,10,0
+109,Harina de Trigo 1kg,2024-03-26,10,463
+110,Papel Higiénico 4u,2024-03-26,17,275
+101,Leche Entera 1L,2024-03-27,9,347
+102,Arroz Blanco 1kg,2024-03-27,9,1067
+103,Aceite Vegetal 900ml,2024-03-27,6,165
+104,Pasta 500g,2024-03-27,8,305
+105,Café Molido 250g,2024-03-27,6,54
+106,Detergente Líquido 3L,2024-03-27,5,0
+107,Atún en Conserva 140g,2024-03-27,10,677
+108,Huevos (Docena),2024-03-27,7,0
+109,Harina de Trigo 1kg,2024-03-27,5,458
+110,Papel Higiénico 4u,2024-03-27,14,263
+101,Leche Entera 1L,2024-03-28,5,343
+102,Arroz Blanco 1kg,2024-03-28,15,1063
+103,Aceite Vegetal 900ml,2024-03-28,16,164
+104,Pasta 500g,2024-03-28,10,302
+105,Café Molido 250g,2024-03-28,13,53
+106,Detergente Líquido 3L,2024-03-28,8,0
+107,Atún en Conserva 140g,2024-03-28,9,672
+108,Huevos (Docena),2024-03-28,11,0
+109,Harina de Trigo 1kg,2024-03-28,15,458
+110,Papel Higiénico 4u,2024-03-28,12,254
+101,Leche Entera 1L,2024-03-29,11,343
+102,Arroz Blanco 1kg,2024-03-29,9,1053
+103,Aceite Vegetal 900ml,2024-03-29,7,153
+104,Pasta 500g,2024-03-29,10,297
+105,Café Molido 250g,2024-03-29,11,45
+106,Detergente Líquido 3L,2024-03-29,15,0
+107,Atún en Conserva 140g,2024-03-29,7,668
+108,Huevos (Docena),2024-03-29,10,0
+109,Harina de Trigo 1kg,2024-03-29,10,448
+110,Papel Higiénico 4u,2024-03-29,9,247
+101,Leche Entera 1L,2024-03-30,11,337
+102,Arroz Blanco 1kg,2024-03-30,11,1049
+103,Aceite Vegetal 900ml,2024-03-30,19,151
+104,Pasta 500g,2024-03-30,11,292
+105,Café Molido 250g,2024-03-30,22,39
+106,Detergente Líquido 3L,2024-03-30,16,0
+107,Atún en Conserva 140g,2024-03-30,21,666
+108,Huevos (Docena),2024-03-30,13,0
+109,Harina de Trigo 1kg,2024-03-30,20,443
+110,Papel Higiénico 4u,2024-03-30,9,243
+101,Leche Entera 1L,2024-03-31,20,331
+102,Arroz Blanco 1kg,2024-03-31,15,1043
+103,Aceite Vegetal 900ml,2024-03-31,19,137
+104,Pasta 500g,2024-03-31,13,286
+105,Café Molido 250g,2024-03-31,12,22
+106,Detergente Líquido 3L,2024-03-31,18,0
+107,Atún en Conserva 140g,2024-03-31,12,650
+108,Huevos (Docena),2024-03-31,12,0
+109,Harina de Trigo 1kg,2024-03-31,12,428
+110,Papel Higiénico 4u,2024-03-31,13,239
+101,Leche Entera 1L,2024-04-01,10,316
+102,Arroz Blanco 1kg,2024-04-01,8,1033
+103,Aceite Vegetal 900ml,2024-04-01,10,123
+104,Pasta 500g,2024-04-01,13,278
+105,Café Molido 250g,2024-04-01,10,15
+106,Detergente Líquido 3L,2024-04-01,7,0
+107,Atún en Conserva 140g,2024-04-01,9,643
+108,Huevos (Docena),2024-04-01,9,0
+109,Harina de Trigo 1kg,2024-04-01,10,421
+110,Papel Higiénico 4u,2024-04-01,8,231
+101,Leche Entera 1L,2024-04-02,11,311
+102,Arroz Blanco 1kg,2024-04-02,13,1030
+103,Aceite Vegetal 900ml,2024-04-02,12,118
+104,Pasta 500g,2024-04-02,7,270
+105,Café Molido 250g,2024-04-02,10,10
+106,Detergente Líquido 3L,2024-04-02,13,0
+107,Atún en Conserva 140g,2024-04-02,10,639
+108,Huevos (Docena),2024-04-02,9,0
+109,Harina de Trigo 1kg,2024-04-02,11,416
+110,Papel Higiénico 4u,2024-04-02,7,228
+101,Leche Entera 1L,2024-04-03,14,305
+102,Arroz Blanco 1kg,2024-04-03,10,1022
+103,Aceite Vegetal 900ml,2024-04-03,7,111
+104,Pasta 500g,2024-04-03,9,268
+105,Café Molido 250g,2024-04-03,14,5
+106,Detergente Líquido 3L,2024-04-03,7,0
+107,Atún en Conserva 140g,2024-04-03,9,634
+108,Huevos (Docena),2024-04-03,18,0
+109,Harina de Trigo 1kg,2024-04-03,8,410
+110,Papel Higiénico 4u,2024-04-03,4,226
+101,Leche Entera 1L,2024-04-04,9,296
+102,Arroz Blanco 1kg,2024-04-04,8,1017
+103,Aceite Vegetal 900ml,2024-04-04,12,109
+104,Pasta 500g,2024-04-04,9,264
+105,Café Molido 250g,2024-04-04,4,0
+106,Detergente Líquido 3L,2024-04-04,11,0
+107,Atún en Conserva 140g,2024-04-04,8,630
+108,Huevos (Docena),2024-04-04,9,0
+109,Harina de Trigo 1kg,2024-04-04,14,407
+110,Papel Higiénico 4u,2024-04-04,11,227
+101,Leche Entera 1L,2024-04-05,6,292
+102,Arroz Blanco 1kg,2024-04-05,10,1014
+103,Aceite Vegetal 900ml,2024-04-05,12,102
+104,Pasta 500g,2024-04-05,7,260
+105,Café Molido 250g,2024-04-05,11,1
+106,Detergente Líquido 3L,2024-04-05,7,0
+107,Atún en Conserva 140g,2024-04-05,11,627
+108,Huevos (Docena),2024-04-05,10,0
+109,Harina de Trigo 1kg,2024-04-05,14,398
+110,Papel Higiénico 4u,2024-04-05,13,221
+101,Leche Entera 1L,2024-04-06,17,291
+102,Arroz Blanco 1kg,2024-04-06,16,1009
+103,Aceite Vegetal 900ml,2024-04-06,9,95
+104,Pasta 500g,2024-04-06,12,258
+105,Café Molido 250g,2024-04-06,13,0
+106,Detergente Líquido 3L,2024-04-06,14,0
+107,Atún en Conserva 140g,2024-04-06,17,621
+108,Huevos (Docena),2024-04-06,11,0
+109,Harina de Trigo 1kg,2024-04-06,20,389
+110,Papel Higiénico 4u,2024-04-06,14,213
+101,Leche Entera 1L,2024-04-07,17,279
+102,Arroz Blanco 1kg,2024-04-07,23,998
+103,Aceite Vegetal 900ml,2024-04-07,14,91
+104,Pasta 500g,2024-04-07,12,251
+105,Café Molido 250g,2024-04-07,14,0
+106,Detergente Líquido 3L,2024-04-07,12,0
+107,Atún en Conserva 140g,2024-04-07,14,609
+108,Huevos (Docena),2024-04-07,19,0
+109,Harina de Trigo 1kg,2024-04-07,10,374
+110,Papel Higiénico 4u,2024-04-07,17,204
+101,Leche Entera 1L,2024-04-08,16,267
+102,Arroz Blanco 1kg,2024-04-08,11,980
+103,Aceite Vegetal 900ml,2024-04-08,15,82
+104,Pasta 500g,2024-04-08,13,244
+105,Café Molido 250g,2024-04-08,10,0
+106,Detergente Líquido 3L,2024-04-08,8,0
+107,Atún en Conserva 140g,2024-04-08,6,600
+108,Huevos (Docena),2024-04-08,8,0
+109,Harina de Trigo 1kg,2024-04-08,14,369
+110,Papel Higiénico 4u,2024-04-08,12,192
+101,Leche Entera 1L,2024-04-09,10,256
+102,Arroz Blanco 1kg,2024-04-09,12,974
+103,Aceite Vegetal 900ml,2024-04-09,16,72
+104,Pasta 500g,2024-04-09,7,236
+105,Café Molido 250g,2024-04-09,8,0
+106,Detergente Líquido 3L,2024-04-09,13,0
+107,Atún en Conserva 140g,2024-04-09,10,599
+108,Huevos (Docena),2024-04-09,7,0
+109,Harina de Trigo 1kg,2024-04-09,12,360
+110,Papel Higiénico 4u,2024-04-09,7,185
+101,Leche Entera 1L,2024-04-10,8,251
+102,Arroz Blanco 1kg,2024-04-10,9,967
+103,Aceite Vegetal 900ml,2024-04-10,13,61
+104,Pasta 500g,2024-04-10,7,234
+105,Café Molido 250g,2024-04-10,9,0
+106,Detergente Líquido 3L,2024-04-10,5,0
+107,Atún en Conserva 140g,2024-04-10,14,594
+108,Huevos (Docena),2024-04-10,17,0
+109,Harina de Trigo 1kg,2024-04-10,11,353
+110,Papel Higiénico 4u,2024-04-10,9,183
+101,Leche Entera 1L,2024-04-11,13,248
+102,Arroz Blanco 1kg,2024-04-11,7,963
+103,Aceite Vegetal 900ml,2024-04-11,14,53
+104,Pasta 500g,2024-04-11,7,232
+105,Café Molido 250g,2024-04-11,9,0
+106,Detergente Líquido 3L,2024-04-11,10,0
+107,Atún en Conserva 140g,2024-04-11,11,585
+108,Huevos (Docena),2024-04-11,6,0
+109,Harina de Trigo 1kg,2024-04-11,11,347
+110,Papel Higiénico 4u,2024-04-11,12,179
+101,Leche Entera 1L,2024-04-12,6,240
+102,Arroz Blanco 1kg,2024-04-12,10,961
+103,Aceite Vegetal 900ml,2024-04-12,9,44
+104,Pasta 500g,2024-04-12,12,230
+105,Café Molido 250g,2024-04-12,8,0
+106,Detergente Líquido 3L,2024-04-12,13,0
+107,Atún en Conserva 140g,2024-04-12,8,579
+108,Huevos (Docena),2024-04-12,12,0
+109,Harina de Trigo 1kg,2024-04-12,6,341
+110,Papel Higiénico 4u,2024-04-12,6,172
+101,Leche Entera 1L,2024-04-13,20,239
+102,Arroz Blanco 1kg,2024-04-13,21,956
+103,Aceite Vegetal 900ml,2024-04-13,18,40
+104,Pasta 500g,2024-04-13,13,223
+105,Café Molido 250g,2024-04-13,15,0
+106,Detergente Líquido 3L,2024-04-13,12,0
+107,Atún en Conserva 140g,2024-04-13,14,576
+108,Huevos (Docena),2024-04-13,15,0
+109,Harina de Trigo 1kg,2024-04-13,15,340
+110,Papel Higiénico 4u,2024-04-13,6,171
+101,Leche Entera 1L,2024-04-14,18,224
+102,Arroz Blanco 1kg,2024-04-14,17,940
+103,Aceite Vegetal 900ml,2024-04-14,9,27
+104,Pasta 500g,2024-04-14,10,215
+105,Café Molido 250g,2024-04-14,20,0
+106,Detergente Líquido 3L,2024-04-14,15,0
+107,Atún en Conserva 140g,2024-04-14,13,567
+108,Huevos (Docena),2024-04-14,17,0
+109,Harina de Trigo 1kg,2024-04-14,18,330
+110,Papel Higiénico 4u,2024-04-14,9,170
+101,Leche Entera 1L,2024-04-15,5,211
+102,Arroz Blanco 1kg,2024-04-15,13,928
+103,Aceite Vegetal 900ml,2024-04-15,7,23
+104,Pasta 500g,2024-04-15,9,210
+105,Café Molido 250g,2024-04-15,14,0
+106,Detergente Líquido 3L,2024-04-15,10,0
+107,Atún en Conserva 140g,2024-04-15,14,559
+108,Huevos (Docena),2024-04-15,17,0
+109,Harina de Trigo 1kg,2024-04-15,7,317
+110,Papel Higiénico 4u,2024-04-15,11,166
+101,Leche Entera 1L,2024-04-16,10,211
+102,Arroz Blanco 1kg,2024-04-16,7,920
+103,Aceite Vegetal 900ml,2024-04-16,9,21
+104,Pasta 500g,2024-04-16,10,206
+105,Café Molido 250g,2024-04-16,6,0
+106,Detergente Líquido 3L,2024-04-16,12,0
+107,Atún en Conserva 140g,2024-04-16,10,550
+108,Huevos (Docena),2024-04-16,9,0
+109,Harina de Trigo 1kg,2024-04-16,7,315
+110,Papel Higiénico 4u,2024-04-16,17,160
+101,Leche Entera 1L,2024-04-17,8,206
+102,Arroz Blanco 1kg,2024-04-17,5,918
+103,Aceite Vegetal 900ml,2024-04-17,11,17
+104,Pasta 500g,2024-04-17,13,201
+105,Café Molido 250g,2024-04-17,6,0
+106,Detergente Líquido 3L,2024-04-17,11,0
+107,Atún en Conserva 140g,2024-04-17,12,545
+108,Huevos (Docena),2024-04-17,10,0
+109,Harina de Trigo 1kg,2024-04-17,9,313
+110,Papel Higiénico 4u,2024-04-17,9,148
+101,Leche Entera 1L,2024-04-18,6,203
+102,Arroz Blanco 1kg,2024-04-18,15,918
+103,Aceite Vegetal 900ml,2024-04-18,8,11
+104,Pasta 500g,2024-04-18,11,193
+105,Café Molido 250g,2024-04-18,15,0
+106,Detergente Líquido 3L,2024-04-18,7,0
+107,Atún en Conserva 140g,2024-04-18,9,538
+108,Huevos (Docena),2024-04-18,11,0
+109,Harina de Trigo 1kg,2024-04-18,13,309
+110,Papel Higiénico 4u,2024-04-18,5,144
+101,Leche Entera 1L,2024-04-19,17,202
+102,Arroz Blanco 1kg,2024-04-19,9,908
+103,Aceite Vegetal 900ml,2024-04-19,7,8
+104,Pasta 500g,2024-04-19,10,187
+105,Café Molido 250g,2024-04-19,11,0
+106,Detergente Líquido 3L,2024-04-19,8,0
+107,Atún en Conserva 140g,2024-04-19,9,534
+108,Huevos (Docena),2024-04-19,12,0
+109,Harina de Trigo 1kg,2024-04-19,8,301
+110,Papel Higiénico 4u,2024-04-19,8,144
+101,Leche Entera 1L,2024-04-20,13,190
+102,Arroz Blanco 1kg,2024-04-20,17,904
+103,Aceite Vegetal 900ml,2024-04-20,18,6
+104,Pasta 500g,2024-04-20,9,182
+105,Café Molido 250g,2024-04-20,10,0
+106,Detergente Líquido 3L,2024-04-20,17,0
+107,Atún en Conserva 140g,2024-04-20,16,530
+108,Huevos (Docena),2024-04-20,19,0
+109,Harina de Trigo 1kg,2024-04-20,17,298
+110,Papel Higiénico 4u,2024-04-20,19,141
+101,Leche Entera 1L,2024-04-21,12,182
+102,Arroz Blanco 1kg,2024-04-21,14,892
+103,Aceite Vegetal 900ml,2024-04-21,21,0
+104,Pasta 500g,2024-04-21,14,178
+105,Café Molido 250g,2024-04-21,15,0
+106,Detergente Líquido 3L,2024-04-21,16,0
+107,Atún en Conserva 140g,2024-04-21,13,519
+108,Huevos (Docena),2024-04-21,16,0
+109,Harina de Trigo 1kg,2024-04-21,11,286
+110,Papel Higiénico 4u,2024-04-21,16,127
+101,Leche Entera 1L,2024-04-22,4,175
+102,Arroz Blanco 1kg,2024-04-22,13,883
+103,Aceite Vegetal 900ml,2024-04-22,9,0
+104,Pasta 500g,2024-04-22,5,169
+105,Café Molido 250g,2024-04-22,7,0
+106,Detergente Líquido 3L,2024-04-22,9,0
+107,Atún en Conserva 140g,2024-04-22,8,511
+108,Huevos (Docena),2024-04-22,9,0
+109,Harina de Trigo 1kg,2024-04-22,6,280
+110,Papel Higiénico 4u,2024-04-22,9,116
+101,Leche Entera 1L,2024-04-23,4,176
+102,Arroz Blanco 1kg,2024-04-23,14,875
+103,Aceite Vegetal 900ml,2024-04-23,11,0
+104,Pasta 500g,2024-04-23,9,169
+105,Café Molido 250g,2024-04-23,12,0
+106,Detergente Líquido 3L,2024-04-23,15,0
+107,Atún en Conserva 140g,2024-04-23,10,508
+108,Huevos (Docena),2024-04-23,8,0
+109,Harina de Trigo 1kg,2024-04-23,10,279
+110,Papel Higiénico 4u,2024-04-23,12,112
+101,Leche Entera 1L,2024-04-24,6,177
+102,Arroz Blanco 1kg,2024-04-24,10,866
+103,Aceite Vegetal 900ml,2024-04-24,8,0
+104,Pasta 500g,2024-04-24,9,165
+105,Café Molido 250g,2024-04-24,9,0
+106,Detergente Líquido 3L,2024-04-24,11,0
+107,Atún en Conserva 140g,2024-04-24,8,503
+108,Huevos (Docena),2024-04-24,9,0
+109,Harina de Trigo 1kg,2024-04-24,7,274
+110,Papel Higiénico 4u,2024-04-24,10,105
+101,Leche Entera 1L,2024-04-25,13,176
+102,Arroz Blanco 1kg,2024-04-25,4,861
+103,Aceite Vegetal 900ml,2024-04-25,6,0
+104,Pasta 500g,2024-04-25,8,161
+105,Café Molido 250g,2024-04-25,6,0
+106,Detergente Líquido 3L,2024-04-25,10,0
+107,Atún en Conserva 140g,2024-04-25,6,500
+108,Huevos (Docena),2024-04-25,11,0
+109,Harina de Trigo 1kg,2024-04-25,12,272
+110,Papel Higiénico 4u,2024-04-25,9,100
+101,Leche Entera 1L,2024-04-26,14,168
+102,Arroz Blanco 1kg,2024-04-26,6,862
+103,Aceite Vegetal 900ml,2024-04-26,9,0
+104,Pasta 500g,2024-04-26,11,158
+105,Café Molido 250g,2024-04-26,13,0
+106,Detergente Líquido 3L,2024-04-26,11,0
+107,Atún en Conserva 140g,2024-04-26,13,499
+108,Huevos (Docena),2024-04-26,12,0
+109,Harina de Trigo 1kg,2024-04-26,7,265
+110,Papel Higiénico 4u,2024-04-26,9,96
+101,Leche Entera 1L,2024-04-27,21,159
+102,Arroz Blanco 1kg,2024-04-27,22,861
+103,Aceite Vegetal 900ml,2024-04-27,12,0
+104,Pasta 500g,2024-04-27,18,152
+105,Café Molido 250g,2024-04-27,8,0
+106,Detergente Líquido 3L,2024-04-27,14,0
+107,Atún en Conserva 140g,2024-04-27,10,491
+108,Huevos (Docena),2024-04-27,21,0
+109,Harina de Trigo 1kg,2024-04-27,14,263
+110,Papel Higiénico 4u,2024-04-27,19,92
+101,Leche Entera 1L,2024-04-28,17,143
+102,Arroz Blanco 1kg,2024-04-28,13,844
+103,Aceite Vegetal 900ml,2024-04-28,13,0
+104,Pasta 500g,2024-04-28,22,139
+105,Café Molido 250g,2024-04-28,16,0
+106,Detergente Líquido 3L,2024-04-28,15,0
+107,Atún en Conserva 140g,2024-04-28,19,486
+108,Huevos (Docena),2024-04-28,18,0
+109,Harina de Trigo 1kg,2024-04-28,13,254
+110,Papel Higiénico 4u,2024-04-28,11,78
+101,Leche Entera 1L,2024-04-29,5,131
+102,Arroz Blanco 1kg,2024-04-29,18,836
+103,Aceite Vegetal 900ml,2024-04-29,9,0
+104,Pasta 500g,2024-04-29,6,122
+105,Café Molido 250g,2024-04-29,13,0
+106,Detergente Líquido 3L,2024-04-29,7,0
+107,Atún en Conserva 140g,2024-04-29,9,472
+108,Huevos (Docena),2024-04-29,10,0
+109,Harina de Trigo 1kg,2024-04-29,19,246
+110,Papel Higiénico 4u,2024-04-29,15,72
+101,Leche Entera 1L,2024-04-30,9,131
+102,Arroz Blanco 1kg,2024-04-30,13,823
+103,Aceite Vegetal 900ml,2024-04-30,10,0
+104,Pasta 500g,2024-04-30,10,121
+105,Café Molido 250g,2024-04-30,6,0
+106,Detergente Líquido 3L,2024-04-30,10,0
+107,Atún en Conserva 140g,2024-04-30,10,468
+108,Huevos (Docena),2024-04-30,7,0
+109,Harina de Trigo 1kg,2024-04-30,10,232
+110,Papel Higiénico 4u,2024-04-30,8,62
+101,Leche Entera 1L,2024-05-01,9,127
+102,Arroz Blanco 1kg,2024-05-01,12,815
+103,Aceite Vegetal 900ml,2024-05-01,14,0
+104,Pasta 500g,2024-05-01,14,116
+105,Café Molido 250g,2024-05-01,5,0
+106,Detergente Líquido 3L,2024-05-01,7,0
+107,Atún en Conserva 140g,2024-05-01,14,463
+108,Huevos (Docena),2024-05-01,15,0
+109,Harina de Trigo 1kg,2024-05-01,6,227
+110,Papel Higiénico 4u,2024-05-01,20,59
+101,Leche Entera 1L,2024-05-02,6,123
+102,Arroz Blanco 1kg,2024-05-02,15,808
+103,Aceite Vegetal 900ml,2024-05-02,14,0
+104,Pasta 500g,2024-05-02,9,107
+105,Café Molido 250g,2024-05-02,10,0
+106,Detergente Líquido 3L,2024-05-02,16,0
+107,Atún en Conserva 140g,2024-05-02,11,454
+108,Huevos (Docena),2024-05-02,13,0
+109,Harina de Trigo 1kg,2024-05-02,10,226
+110,Papel Higiénico 4u,2024-05-02,13,44
+101,Leche Entera 1L,2024-05-03,6,122
+102,Arroz Blanco 1kg,2024-05-03,11,798
+103,Aceite Vegetal 900ml,2024-05-03,14,0
+104,Pasta 500g,2024-05-03,7,103
+105,Café Molido 250g,2024-05-03,12,0
+106,Detergente Líquido 3L,2024-05-03,5,0
+107,Atún en Conserva 140g,2024-05-03,5,448
+108,Huevos (Docena),2024-05-03,6,0
+109,Harina de Trigo 1kg,2024-05-03,4,221
+110,Papel Higiénico 4u,2024-05-03,10,36
